@@ -3,7 +3,7 @@ var twitter_bouba = require("./keys.js");
 var twitterList = twitter_bouba.twitterKeys;
 
 
-var filePath = '/Users/boubacarbalde/Desktop/Homework/liri-node-app/log.txt'; 
+//var filePath = '/Users/boubacarbalde/Desktop/Homework/liri-node-app/log.txt'; 
 
 
 var Twitter = require('twitter');
@@ -38,7 +38,7 @@ function the_twits()
 {
 	var client = new Twitter(twitterList);
 
-	fs.unlinkSync(filePath);
+	//fs.unlinkSync(filePath);
 
 		var params = {screen_name: 'balde_boubs'};
 		client.get('statuses/user_timeline', params, function(error, tweets, response) {
@@ -64,7 +64,7 @@ function the_twits()
 
 function the_spotify()
 {
-	fs.unlinkSync(filePath);
+	//fs.unlinkSync(filePath);
 	var that_song = process.argv[3];
 
 
@@ -106,7 +106,7 @@ function the_spotify()
 
 function the_movie()
 {
-	fs.unlinkSync(filePath);
+	//fs.unlinkSync(filePath);
 	// Store all of the arguments in an array
 var nodeArgs = process.argv;
 
@@ -122,16 +122,13 @@ for (var i =2; i < nodeArgs.length; i++) {
  {
  	movieName = "Mr" + "+" + "Nobody";
  }
+else if (i > 3 && i < nodeArgs.length) {
 
-  else if (i > 3 && i < nodeArgs.length) {
+movieName = movieName + "+" + nodeArgs[i];
+}
+else {
 
-    movieName = movieName + "+" + nodeArgs[i];
-
-  }
-
-  else {
-
-    movieName = nodeArgs[3];
+movieName = nodeArgs[3];
 
   }
 }
@@ -197,7 +194,7 @@ request(queryUrl, function(error, response, body) {
 
 function the_says()
 {
-	fs.unlinkSync(filePath);
+	//fs.unlinkSync(filePath);
 
 	fs.readFile("random.txt", "utf8", function(err, data) {
 	var to_play= data;

@@ -1,9 +1,27 @@
-* Title of the movie: War on Everyone
+* Title of the movie: Fast Five
+* Year the movie came out: 2011
+* IMDB Rating of the movie: 7.3
+* Country where the movie was produced: Fast Five
+* Language of the movie: English, Portuguese, Spanish, Italian
+* Plot of the movie: Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.
+* Actors in the movie: Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson
+* Rotten Tomatoes Rating: 77%
+* Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fast_five/
+* Title of the movie: Titanic
+* Year the movie came out: 1997
+* IMDB Rating of the movie: 7.7
+* Country where the movie was produced: Titanic
+* Language of the movie: English, Swedish
+* Plot of the movie: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+* Actors in the movie: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+* Rotten Tomatoes Rating: 88%
+* Rotten Tomatoes URL: http://www.rottentomatoes.com/m/titanic/
+* Title of the movie: Fences
 * Year the movie came out: 2016
-* IMDB Rating of the movie: 5.9
-* Country where the movie was produced: War on Everyone
+* IMDB Rating of the movie: 7.3
+* Country where the movie was produced: Fences
 * Language of the movie: English
-* Plot of the movie: Two corrupt cops set out to blackmail and frame every criminal unfortunate enough to cross their path. Events, however, are complicated by the arrival of someone who appears to be even more dangerous than they are.
-* Actors in the movie: Alexander Skarsgård, Michael Peña, Theo James, Tessa Thompson
-* Rotten Tomatoes Rating: 56%
-* Rotten Tomatoes URL: http://www.rottentomatoes.com/m/war_on_everyone/
+* Plot of the movie: A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.
+* Actors in the movie: Denzel Washington, Viola Davis, Stephen Henderson, Jovan Adepo
+* Rotten Tomatoes Rating: 93%
+* Rotten Tomatoes URL: http://www.rottentomatoes.com/m/fences_2016
